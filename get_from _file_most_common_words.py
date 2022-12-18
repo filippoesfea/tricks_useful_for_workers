@@ -1,6 +1,6 @@
 # GET FROM ANY FILE MOST COMMON WORD/NUMBER USED
 
-mport collections
+import collections
 # optional - import json
 # optional - import re
 
