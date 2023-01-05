@@ -1,8 +1,8 @@
 # GET FROM ANY FILE MOST COMMON WORD/NUMBER USED
 
 import collections
-# optional - import json
-# optional - import re
+# import json (optional)
+# import re (optional)
 
 # open file (if directory is not specified in path file, insert complete path in directory)
 # es. example_mongo --> AAA --> 'Desktop\.....
