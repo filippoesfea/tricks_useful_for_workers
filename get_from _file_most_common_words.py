@@ -6,7 +6,7 @@ import collections
 
 # open file (if directory is not specified in path file, insert complete path in directory)
 # es. example_mongo --> AAA --> 'Desktop\.....
-file = open('AAA.json', 'rt')
+file = open('yourfilename.json', 'rt')
 data = file.read()
 # splitting each content in file
 words = data.split()
